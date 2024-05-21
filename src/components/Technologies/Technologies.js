@@ -43,7 +43,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Next.js, Wordpress
+            NodeJS, ExpressJS, MongoDB, Firebase, RESTAPI
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -55,7 +55,7 @@ const Technologies = () => (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            PS, XD, Zeplin, Figma, Avocode
+            PS,Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -67,7 +67,7 @@ const Technologies = () => (
           <ListTitle>Other Tools</ListTitle>
           <ListParagraph>
             Experience with <br />
-            WordPress CMS, Jira, Trello, Git
+            Git, Github, Tailwind CSS, MaterialUI, Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>

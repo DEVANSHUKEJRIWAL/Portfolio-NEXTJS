@@ -74,38 +74,32 @@ export const projects = [
     title: "Bash Conference Website",
     description:
       "Built a JavaScript-powered, dynamic, and interactive website for a cybersecurity conference. Crafted user-friendly interfaces with responsive design to ensure seamless compatibility across diverse devices.      ",
-    image: "images/jpgs/ReactCryptocurrencyApp.jpg",
-    imageWebp: "images/webps/ReactCryptocurrencyApp.webp",
+    image: "images/jpgs/1st Page.png",
+   
     images: [
       {
         original:
-          "images/projects/ReactCryptocurrency/ReactCryptocurrencyApp.jpg",
+          "images/projects/BashConf/1st Page.png",
         loading: "lazy",
         originalAlt: "React-Cryptocurrency",
       },
       {
         original:
-          "images/projects/ReactCryptocurrency/ReactCryptocurrencyAppHome.jpg",
+          "images/projects/BashConf/2nd Page.png",
         loading: "lazy",
         originalAlt: "React-Cryptocurrency-Home",
       },
       {
         original:
-          "images/projects/ReactCryptocurrency/ReactCryptocurrencyAppCryptocurrencies.jpg",
+          "images/projects/BashConf/3rd Page.png",
         loading: "lazy",
         originalAlt: "React--Cryptocurrency-Cryptocurrencies",
       },
       {
         original:
-          "images/projects/ReactCryptocurrency/ReactCryptocurrencyAppExchanges.jpg",
+          "images/projects/BashConf/4th Page.png",
         loading: "lazy",
         originalAlt: "React-Cryptocurrency-Exchanges",
-      },
-      {
-        original:
-          "images/projects/ReactCryptocurrency/ReactCryptocurrencyAppNews.jpg",
-        loading: "lazy",
-        originalAlt: "React-Cryptocurrency-News",
       },
     ],
     tags: [
@@ -121,48 +115,32 @@ export const projects = [
     title: "Cartique",
     description:
       "Constructed a feature-rich eCommerce platform utilizing React.js, React Router, and Tailwind CSS to facilitate seamless navigation and smooth transitions between pages. Designed product listing pages, search functionality, and shopping cart management for an enhanced shopping experience.",
-    image: "images/jpgs/ReactLibraryHomeDark.jpg",
-    imageWebp: "images/webps/ReactLibraryHomeDark.webp",
+    image: "images/jpgs/1st Page copy.png",
     images: [
       {
-        original: "images/projects/Rlibrary/ReactLibraryHomeDark.jpg",
+        original: "images/projects/Cartique/1st Page.png",
         loading: "lazy",
         originalAlt: "RLibrary Home Dark",
       },
       {
-        original: "images/projects/Rlibrary/ReactLibraryHomeLight.jpg",
+        original: "images/projects/Cartique/2nd Page.png",
         loading: "lazy",
         originalAlt: "RLibrary Home Light",
       },
       {
-        original: "images/projects/Rlibrary/ReactLibraryHomeSignUpErrors.jpg",
+        original: "images/projects/Cartique/3rd Page.png",
         loading: "lazy",
         originalAlt: "RLibrary Home Sign uo Errors",
       },
       {
-        original: "images/projects/Rlibrary/ReactLibraryViewLight.jpg",
-        loading: "lazy",
-        originalAlt: "RLibrary View Light",
-      },
-      {
-        original: "images/projects/Rlibrary/ReactLibraryViewAddNewBook.jpg",
+        original: "images/projects/Cartique/5th Page.png",
         loading: "lazy",
         originalAlt: "RLibrary View Add New Book",
       },
       {
-        original: "images/projects/Rlibrary/ReactLibraryViewEditBook.jpg",
+        original: "images/projects/Cartique/6th Page.png",
         loading: "lazy",
         originalAlt: "RLibrary View Edit Book",
-      },
-      {
-        original: "images/projects/Rlibrary/ReactLibraryViewDeleteBook.jpg",
-        loading: "lazy",
-        originalAlt: "RLibrary View Delete Book",
-      },
-      {
-        original: "images/projects/Rlibrary/ReactLibraryViewMobile.jpg",
-        loading: "lazy",
-        originalAlt: "RLibrary View Mobile",
       },
     ],
     tags: [
@@ -228,6 +206,48 @@ export const projects = [
     ],
     id: 12,
     order: 88,
+    mainType: "react",
+  },
+  {
+    title: "MUJ-EMS",
+    description:
+      "Established MUJ-EMS with MERN stack, automating elective submissions for 3rd and 4th-year students. Enabled centralized elective selection, assignment uploads, and changes through a dedicated portal.",
+    image: "images/jpgs/2nd Page.png",
+    images: [
+      {
+        original: "images/projects/MUJ_EMS/1st Page.png",
+        loading: "lazy",
+        originalAlt: "RLibrary Home Dark",
+      },
+      {
+        original: "images/projects/MUJ_EMS/2nd Page.png",
+        loading: "lazy",
+        originalAlt: "RLibrary Home Light",
+      },
+      {
+        original: "images/projects/MUJ_EMS/3rd Page.png",
+        loading: "lazy",
+        originalAlt: "RLibrary Home Sign uo Errors",
+      },
+      {
+        original: "images/projects/MUJ_EMS/4th Page.png",
+        loading: "lazy",
+        originalAlt: "RLibrary View Add New Book",
+      },
+    ],
+    tags: [
+      "React",
+      "React hooks",
+      "REST API",
+      "MONGODB",
+      "Router DOM v6",
+      "Tailwind CSS",
+      "Material UI",
+      "NODEJS",
+      "EXPRESSJS"
+    ],
+    id: 9,
+    order: 91,
     mainType: "react",
   },
 ];
